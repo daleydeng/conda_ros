@@ -1,0 +1,21 @@
+# missing
+colcon
+lark-parser
+maven
+pyqt
+zstd-static
+
+# for compile
+eigen
+libssh
+libcurl
+
+# vendor
+benchmark
+foonathan-memory
+uncrustify
+console_bridge
+spdlog
+yaml-cpp
+tinyxml
+tinyxml2
