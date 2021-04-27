@@ -1,14 +1,20 @@
-# missing
+# basic
+python 
+numpy
+cmake
 colcon
-lark-parser
 maven
 pyqt
+
+# missing
+lark-parser
 zstd-static
 
 # for compile
 eigen
 libssh
 libcurl
+freeimage
 
 # vendor
 benchmark
@@ -19,3 +25,5 @@ spdlog
 yaml-cpp
 tinyxml
 tinyxml2
+gtest
+gmock
